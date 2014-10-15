@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1400764350 source:f:\ipm_parteinteresante\tetris\tetris\main.cpp
+	<GLUT/glut.h>
+	<GL/freeglut.h>
+	<cstdio>
+	<cstdlib>
+	<iostream>
+
+1401362472 source:c:\users\rex\dropbox\ipm_parteinteresante\tetris\tetris\main.cpp
+	<GLUT/glut.h>
+	<GL/freeglut.h>
+	<cstdio>
+	<stdio.h>
+	<time.h>
+	<cstdlib>
+	<iostream>
+	<SDL/SDL.h>
+	<SDL/SDL_mixer.h>
+	<IL/ilut.h>
+

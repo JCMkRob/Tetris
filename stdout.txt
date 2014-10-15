@@ -1,0 +1,31 @@
+images/menuBackground.png
+Textura creada correctamente.
+images/gameOverBackground.png
+Textura creada correctamente.
+images/musicBackground.png
+Textura creada correctamente.
+images/aboutBackground.png
+Textura creada correctamente.
+images/gameBackground.png
+Textura creada correctamente.
+textures/grayBlock.png
+Textura creada correctamente.
+textures/blueBlock.png
+Textura creada correctamente.
+textures/redBlock.png
+Textura creada correctamente.
+textures/yellowBlock.png
+Textura creada correctamente.
+textures/greenBlock.png
+Textura creada correctamente.
+textures/orangeBlock.png
+Textura creada correctamente.
+textures/pinkBlock.png
+Textura creada correctamente.
+textures/lightBlueBlock.png
+Textura creada correctamente.
+textures/gridBlock.png
+Textura creada correctamente.
+Handling Menu Keyboard: 
+Handling Game Keyboard: 
+Handling Menu Keyboard: 
