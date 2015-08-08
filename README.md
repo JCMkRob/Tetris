@@ -25,14 +25,14 @@ Game Over:
 
 Dependencies (Shown in the order that should be used in CodeBlocks IDE):
 
-opengl32
-glu32
-glut32
-SDLmain
-SDL
-mingw32
-C:\MinGW\lib\SDL_mixer.lib
-C:\MinGW\lib\DevIL.lib
-C:\MinGW\lib\ILU.lib
-C:\MinGW\lib\ILUT.lib
-C:\MinGW\lib\freeglut.lib
+  - opengl32
+  - glu32
+  - glut32
+  - SDLmain
+  - SDL
+  - mingw32
+  - C:\MinGW\lib\SDL_mixer.lib
+  - C:\MinGW\lib\DevIL.lib
+  - C:\MinGW\lib\ILU.lib
+  - C:\MinGW\lib\ILUT.lib
+  - C:\MinGW\lib\freeglut.lib
