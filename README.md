@@ -3,7 +3,9 @@ Tetris
 
 OpenGL Tetris game
 
-[![](http://img.youtube.com/vi/5vRbEADGQmQ/0.jpg)](http://www.youtube.com/watch?v=5vRbEADGQmQ)
+YouTube video demo:
+
+[![Tetris in C video demo in YouTube](http://img.youtube.com/vi/5vRbEADGQmQ/0.jpg)](http://www.youtube.com/watch?v=5vRbEADGQmQ)
 
 Main Screen:
 
